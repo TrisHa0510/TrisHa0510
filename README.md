@@ -1,56 +1,79 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer & 2nd Year Student from India</h3>
 
 ---
 
-### 👩‍💻 Introduction
+### 👩‍💻 About Me
+I'm Trisha, a dedicated and curious second-year student with a passion for developing intuitive and efficient web applications. I enjoy building full-stack apps, solving coding challenges, and exploring new tools and technologies in the web development world.
 
-I'm Trisha, a second-year student with a strong passion for web development and problem-solving. I love working with both frontend and backend technologies and am always excited to learn new things. Currently, I'm building full-stack applications with React, Node.js, and MongoDB, while also diving deep into **Data Structures and Algorithms (DSA)**. I believe in the power of clean code and strive to continuously improve my skills.
-
-- 🔭 I’m currently working on a **Full-stack app with React, Node.js, and MongoDB**  
-- 🌱 I'm learning **Advanced DSA**, **Web Development**, and **API Integrations**  
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7f5TVGjaRzmabIT4Jz3wqA%3D%3D)  
-- 🌍 I'm from **India**, and I’m always open to collaboration and learning!
+- 🎓 Pursuing B.Tech (2nd Year)  
+- 🔭 Currently building a **Full-stack App using React, Node.js, and MongoDB**  
+- 🌱 Exploring advanced **Data Structures and Algorithms**  
+- 💬 Ask me about **React, JavaScript, Flask, Python, and MySQL**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
+- 🧑‍💻 Portfolio coming soon!
 
 ---
 
-### 💬 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/trisha-patil-629ab3300?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7f5TVGjaRzmabIT4Jz3wqA%3D%3D" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="trisha-patil" height="30" width="40" />
+### 🧠 Skills & Technologies
+
+**Languages:** C, Java, Python, JavaScript  
+**Frontend:** HTML5, CSS3, React, Tailwind CSS  
+**Backend:** Node.js, Flask, PHP  
+**Database:** MySQL, MongoDB  
+**Tools & Platforms:** Git, VSCode, Postman, GitHub
+
+---
+
+### 📌 Projects
+
+1. **College Admission System**  
+   Web app to manage admissions using Flask & SQL  
+   _Tech: Python, Flask, SQL_
+
+2. **GPA Calculator**  
+   Web tool to compute GPA from grades  
+   _Tech: HTML, CSS, JavaScript_
+
+3. **Task Scheduler App**  
+   Organizes tasks with deadline and status tracking  
+   _Tech: Python, Flask_
+
+4. **Social Media Feed System**  
+   Feed with likes, comments, undo/redo features  
+   _Tech: Python, DSA, Flask_
+
+---
+
+### 🏆 Achievements & Certifications
+- 🥇 Top 10% in a coding challenge on Codeforces  
+- 🧑‍🎓 Completed Web Development Bootcamp (Udemy)  
+- 🧾 HackerRank 5⭐ in Problem Solving  
+
+---
+
+### 📈 GitHub Stats
+
+![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=default)
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/trisha-patil-629ab3300" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/trisha_p_05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trisha_p_05" height="30" width="40" />
+  <a href="https://instagram.com/trisha_p_05" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 📬 Contact
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target
+**Email:** trishapatil05@gmail.com  
+**Location:** India  
