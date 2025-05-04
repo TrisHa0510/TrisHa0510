@@ -17,8 +17,6 @@ I'm Trisha, a dedicated and curious second-year student with a passion for devel
 
 ### 🧠 Skills & Technologies
 
-### 🧠 Skills & Technologies
-
 **Languages:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
