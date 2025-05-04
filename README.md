@@ -74,11 +74,17 @@ I'm Trisha Patil, a second-year Information Technology (IT) student passionate a
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/trisha-patil-629ab3300?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKF5PCDTHTsKnQ%2B8p9fogkQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/trisha-patil-629ab3300" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/trisha_p_05" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/trisha0510" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:trishapatil05@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
