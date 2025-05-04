@@ -9,7 +9,7 @@ I'm Trisha, a dedicated and curious second-year student with a passion for devel
 - 🎓 Pursuing B.Tech (2nd Year)  
 - 🔭 Currently building a **Full-stack App using React, Node.js, and MongoDB**  
 - 🌱 Exploring advanced **Data Structures and Algorithms**  
-- 💬 Ask me about **React, JavaScript, Flask, Python, and MySQL**  
+- 💬 Ask me about **React, JavaScript, Python, and MySQL**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
 - 🧑‍💻 Portfolio coming soon!
 
@@ -18,37 +18,16 @@ I'm Trisha, a dedicated and curious second-year student with a passion for devel
 ### 🧠 Skills & Technologies
 
 **Languages:** C, Java, Python, JavaScript  
-**Frontend:** HTML5, CSS3, React, Tailwind CSS  
+**Frontend:** HTML, CSS, React 
 **Backend:** Node.js, Flask, PHP  
 **Database:** MySQL, MongoDB  
-**Tools & Platforms:** Git, VSCode, Postman, GitHub
+**Tools & Platforms:** Git, VSCode, GitHub
 
 ---
 
-### 📌 Projects
-
-1. **College Admission System**  
-   Web app to manage admissions using Flask & SQL  
-   _Tech: Python, Flask, SQL_
-
-2. **GPA Calculator**  
-   Web tool to compute GPA from grades  
-   _Tech: HTML, CSS, JavaScript_
-
-3. **Task Scheduler App**  
-   Organizes tasks with deadline and status tracking  
-   _Tech: Python, Flask_
-
-4. **Social Media Feed System**  
-   Feed with likes, comments, undo/redo features  
-   _Tech: Python, DSA, Flask_
-
----
-
-### 🏆 Achievements & Certifications
-- 🥇 Top 10% in a coding challenge on Codeforces  
-- 🧑‍🎓 Completed Web Development Bootcamp (Udemy)  
-- 🧾 HackerRank 5⭐ in Problem Solving  
+### 🏆 Achievements & Certifications 
+- 🧑‍🎓 Completed Python programming (Scaler)  
+- 🧾 Completed Citi's Technology Software Development program on @Forage!  
 
 ---
 
