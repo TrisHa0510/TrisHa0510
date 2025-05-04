@@ -61,7 +61,7 @@ I'm Trisha Patil, a second-year Information Technology (IT) student passionate a
 
 ---
 ### My projects
-<h3>🌐Landing Page</h3>
+<p><h3>🌐Landing Page</h3>
 A responsive, aesthetically designed landing page for showcasing a product or service. It focuses on clean design and user experience.
 Languages: HTML, CSS, JavaScript
 <h3>💼Portfolio</h3
@@ -85,6 +85,7 @@ Languages: HTML, CSS, JavaScript (with backend in Node.js or Flask)
 <h3>📱Social media feed </h3>
 A simulated social media feed where users can post, like, and comment. It mimics the core features of a social media platform.
 Languages: HTML, CSS, JavaScript, Python (for backend)
+</p>
 
 ### 📈 GitHub Stats
 
