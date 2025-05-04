@@ -4,14 +4,16 @@
 ---
 
 ### 👩‍💻 About Me
-I'm Trisha, a dedicated and curious second-year student with a passion for developing intuitive and efficient web applications. I enjoy building full-stack apps, solving coding challenges, and exploring new tools and technologies in the web development world.
 
-- 🎓 Pursuing B.Tech (2nd Year)  
-- 🔭 Currently building a **Full-stack App using React, Node.js, and MongoDB**  
+I'm Trisha Patil, a second-year Information Technology (IT) student passionate about web development, problem solving, and full-stack technologies. I love building user-friendly web apps, learning new frameworks, and applying DSA skills in real projects.
+
+- 🎓 Pursuing B.Tech in **Information Technology (2nd Year)**  
+- 🔭 Currently working on a **Full-stack App using React, Node.js, and MongoDB**  
 - 🌱 Exploring advanced **Data Structures and Algorithms**  
-- 💬 Ask me about **React, JavaScript, Python, and MySQL**  
+- 💬 Ask me about **React, JavaScript, Flask, Python, and MySQL**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
 - 🧑‍💻 Portfolio coming soon!
+
 
 ---
 
