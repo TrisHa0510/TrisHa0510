@@ -53,6 +53,10 @@ I'm Trisha Patil, a second-year Information Technology (IT) student passionate a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+
+  
 ### 🏆 Achievements & Certifications 
 - 🧑‍🎓 Completed Python programming (Scaler)  
 - 🧾 Completed Citi's Technology Software Development program on @Forage!  
