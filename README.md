@@ -5,13 +5,14 @@
 
 ### 👩‍💻 About Me
 
-I'm Trisha Patil, a second-year Information Technology (IT) student passionate about web development, problem solving, and full-stack technologies. I love building user-friendly web apps, learning new frameworks, and applying DSA skills in real projects.
+## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in **Information Technology (2nd Year)**  
-- 🛠️ I'm currently working on a **full-stack food ordering app with features like inventory, admin login, Razorpay payments, and email notifications**  
-- 🌱 Exploring advanced **Data Structures and Algorithms**  
-- 🧠Interested in **UI/UX design, system design, and exploring new tech trends**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
+👋 Hi, I'm **Trisha Patil**, a second-year 🎓 **Information Technology** student with a keen interest in 💻 software development and 🌐 technology.  
+🎨 I focus primarily on **frontend development**, with hands-on experience in 🧱 **HTML**, 🎨 **CSS**, ⚡ **JavaScript**, and 🐍 **Python**.  
+🛠️ Currently, I’m expanding my skills into **full-stack development** by working on projects involving ⚛️ **React**, 🌐 **Node.js**, and 🍃 **MongoDB**.  
+📱 My goal is to build **responsive, user-friendly web applications** that solve real-world problems.  
+🚀 I’m a quick learner, passionate about 📈 continuous improvement, and always eager to explore new 🧰 tools and technologies in the field.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
 
 
 ---
@@ -60,41 +61,6 @@ I'm Trisha Patil, a second-year Information Technology (IT) student passionate a
 - 🧾 Completed Citi's Technology Software Development program on @Forage!  
 
 ---
-### My projects
-<p>
-  <h3>🌐Landing Page</h3>
-A responsive, aesthetically designed landing page for showcasing a product or service. It focuses on clean design and user experience.
-Languages: HTML, CSS, JavaScript
-</p>
-<p>
-  <h3>💼Portfolio</h3
-A personal portfolio website that highlights projects, skills, and experience. It’s designed to showcase your work and create an online presence.
-Languages: HTML, CSS, JavaScript</p>
-<p>
-  <h3>🌡️Temperature converter website</h3>
-A tool that converts temperatures between Celsius, Fahrenheit, and Kelvin. It’s a simple app to practice basic JavaScript logic.
-Languages: HTML, CSS, JavaScript</p>
-<p>
-  <h3>🧮calculator</h3>
-A basic calculator web app to perform simple arithmetic operations. It provides a clean UI and uses JavaScript to perform the calculations.
-Languages: HTML, CSS, JavaScript</p>
-<p>
-  <h3>💻Tribute page</h3>
-A tribute page dedicated to a person or a topic. It includes images, text, and styles to honor the subject of the page.
-Languages: HTML, CSS</p>
-<p>
-  <h3>📝To Do Webapp</h3>
-A to-do list web app where users can add, edit, and remove tasks. It’s designed to enhance productivity and focus on interactive UI/UX.
-Languages: HTML, CSS, JavaScript</p>
-<p>
-  <h3>🔑Login authentication</h3>
-A simple web app that handles user login and authentication with form validation, offering a secure user experience.
-Languages: HTML, CSS, JavaScript (with backend in Node.js or Flask)</p>
-<p>
-  <h3>📱Social media feed </h3>
-A simulated social media feed where users can post, like, and comment. It mimics the core features of a social media platform.
-Languages: HTML, CSS, JavaScript, Python (for backend)</p>
-</p>
 
 ### 📈 GitHub Stats
 
