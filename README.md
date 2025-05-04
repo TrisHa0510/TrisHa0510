@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center"><h3 align="center">🚀 Frontend Developer | IT Student from India 🇮🇳 | Enthusiastic about building user-friendly web applications and exploring modern technologies</h3>
+<h3 align="center"><h3 align="center">🚀 Frontend-backend Developer | IT Student from India | Enthusiastic about building user-friendly web applications and exploring modern technologies</h3>
 </h3>
 
 ---
