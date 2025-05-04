@@ -61,28 +61,28 @@ I'm Trisha Patil, a second-year Information Technology (IT) student passionate a
 
 ---
 ### My projects
-<h3>1.Landing Page</h3>
+<h3>🌐Landing Page</h3>
 A responsive, aesthetically designed landing page for showcasing a product or service. It focuses on clean design and user experience.
 Languages: HTML, CSS, JavaScript
-<h3>Portfolio</h3
+<h3>💼Portfolio</h3
 A personal portfolio website that highlights projects, skills, and experience. It’s designed to showcase your work and create an online presence.
 Languages: HTML, CSS, JavaScript
-<h3>Temperature converter website</h3>
+<h3>🌡️Temperature converter website</h3>
 A tool that converts temperatures between Celsius, Fahrenheit, and Kelvin. It’s a simple app to practice basic JavaScript logic.
 Languages: HTML, CSS, JavaScript
-<h3>calculator</h3>
+<h3>🧮calculator</h3>
 A basic calculator web app to perform simple arithmetic operations. It provides a clean UI and uses JavaScript to perform the calculations.
 Languages: HTML, CSS, JavaScript
-<h3>Tribute page</h3>
+<h3>💻Tribute page</h3>
 A tribute page dedicated to a person or a topic. It includes images, text, and styles to honor the subject of the page.
 Languages: HTML, CSS
-<h3>To Do Webapp</h3>
+<h3>📝To Do Webapp</h3>
 A to-do list web app where users can add, edit, and remove tasks. It’s designed to enhance productivity and focus on interactive UI/UX.
 Languages: HTML, CSS, JavaScript
-<h3>Login authentication</h3>
+<h3>🔑Login authentication</h3>
 A simple web app that handles user login and authentication with form validation, offering a secure user experience.
 Languages: HTML, CSS, JavaScript (with backend in Node.js or Flask)
-<h3>Social media feed </h3>
+<h3>📱Social media feed </h3>
 A simulated social media feed where users can post, like, and comment. It mimics the core features of a social media platform.
 Languages: HTML, CSS, JavaScript, Python (for backend)
 
