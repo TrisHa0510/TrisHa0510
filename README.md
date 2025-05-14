@@ -12,6 +12,7 @@
 🛠️ Currently, I’m expanding my skills into **full-stack development** by working on projects involving ⚛️ **React**, 🌐 **Node.js**, and 🍃 **MongoDB**.  
 📱 My goal is to build **responsive, user-friendly web applications** that solve real-world problems.  
 🚀 I’m a quick learner, passionate about 📈 continuous improvement, and always eager to explore new 🧰 tools and technologies in the field.
+
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)  
 
 
