@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about building user-centric web applications</h3>
+<h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about creating web solutions</h3>
 
 ---
 
@@ -11,100 +11,92 @@
 💡 My goal is to craft seamless and accessible user experiences that solve real-world problems.  
 🎯 Always curious and excited to learn new technologies and tools in software development.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/trisha-patil-629ab3300)
-
 ---
 
-## 💻 Tech Stack & Skills
+## 🧠 Skills & Technologies
 
-### 👩‍💻 Programming Languages
+### 🖥️ Programming Languages  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
 </p>
 
-**Backend:**  
+### ⚙️ Backend  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  
-  <!-- Express.js with background & invert filter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color: #fff; padding: 5px; border-radius: 5px"/>
-
-  <!-- Flask with background & invert filter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="background-color: #fff; padding: 5px; border-radius: 5px"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40" style="background-color:white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
 </p>
 
-
-
-### 🗄️ Databases
+### 🗃️ Databases  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications  
 
-- 🧑‍🎓 Completed **Python Programming** – *Scaler*
-- 💼 Completed **Citi’s Technology Virtual Experience Program** – *Forage*
-- 💻 Built full-stack projects using **MERN** stack
+- 🧑‍🎓 Completed Python Programming from Scaler  
+- 🧾 Completed Citi’s Technology Software Development Program on Forage    
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=tokyonight" width="96%"/>
-</p>
+![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula)
+
+---
+
+## 📚 Education  
+
+🎓 Pursuing B.Tech in Information Technology  
+🏫 University: Uka tarsadia University 
+📍 India
+
+---
+
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/trisha-patil-629ab3300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/trisha0510" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="28" />
   </a>
   <a href="https://instagram.com/trisha_p_05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/trisha0510" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:trishapatil05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
-
----
-
-## 📬 Contact
-
-**📧 Email:** trishapatil05@gmail.com  
-**🌍 Location:** India  
