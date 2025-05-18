@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
 <h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about creating web solutions</h3>
 
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/banner.png" alt="Banner" />
+</p>
+
+<p align="center">
+  <em>If I cannot do great things,<br />
+  I can do small things in a great way.</em>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
