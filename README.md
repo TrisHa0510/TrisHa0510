@@ -45,7 +45,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40" height="40"/>
+
 </p>
 
 ### 🛠️ Tools & Platforms  
@@ -70,14 +70,6 @@
 ![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=dracula)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula)
-
----
-
-## 📚 Education  
-
-🎓 Pursuing B.Tech in Information Technology  
-🏫 University: Uka tarsadia University 
-📍 India
 
 ---
 
