@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about creating web solutions</h3>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/github-pro.png" alt="Banner" />
+  <img src="https://github.com/Trisha0510/blob/main/assets/github-pro.png" alt="Banner" />
 </p>
 
 
