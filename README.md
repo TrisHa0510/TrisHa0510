@@ -5,8 +5,6 @@
  <img src="github-pro.png" alt="Banner" />
 </p>
 
-
-
 ---
 
 ## 👩‍💻 About Me
@@ -42,8 +40,9 @@
 ### ⚙️ Backend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40" style="background-color:white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
 </p>
 
@@ -51,7 +50,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
-
 </p>
 
 ### 🛠️ Tools & Platforms  
@@ -68,6 +66,9 @@
 
 - 🧑‍🎓 Completed Python Programming from Scaler  
 - 🧾 Completed Citi’s Technology Software Development Program on Forage    
+- 📜 **Python Django 101** – Certified by **Simplilearn SkillUp** (June 2025)  
+  *Credential ID:* `8540435`  
+  [🔗 View Certificate](https://www.simplilearn.com/skillup/certificate)
 
 ---
 
@@ -76,9 +77,6 @@
 ![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=dracula)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula)
-
----
-
 
 ---
 
