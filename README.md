@@ -67,8 +67,6 @@
 - 🧑‍🎓 Completed Python Programming from Scaler  
 - 🧾 Completed Citi’s Technology Software Development Program on Forage    
 - 📜 **Python Django 101** – Certified by **Simplilearn SkillUp** (June 2025)  
-  *Credential ID:* `8540435`  
-  [🔗 View Certificate](https://www.simplilearn.com/skillup/certificate)
 
 ---
 
