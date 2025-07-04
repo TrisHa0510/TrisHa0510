@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40" height="40"/>
 </p>
 
 ### ⚙️ Backend  
@@ -64,9 +65,11 @@
 
 ## 🏆 Achievements & Certifications  
 
-- 🧑‍🎓 Completed Python Programming from Scaler  
-- 🧾 Completed Citi’s Technology Software Development Program on Forage    
-- 📜 **Python Django 101** – Certified by **Simplilearn SkillUp** (June 2025)  
+- 🧾 **Python Django 101 – Simplilearn SkillUp** *(June 2025)* ✅  
+- 🟤 Python Programming – Scaler Academy  
+- 🟤 Citi’s Technology Software Development Virtual Experience – Forage  
+- 🟤 Responsive Web Design – freeCodeCamp  
+- 🟤 Software Engineering Job Simulation – Accenture (Forage)  
 
 ---
 
