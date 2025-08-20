@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about creating web solutions</h3>
 
 <p align="center">
-  <img src="github-pro.png" alt="Banner" />
+  <img src="1.png" alt="Banner" />
 </p>
 
 ---
