@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula" height="160" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=radical&hide_border=true" />
 </p>
 
 
