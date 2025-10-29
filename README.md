@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center">🚀 Full-Stack Developer | IT Student from India | Passionate about creating web solutions</h3>
+<h3 align="center">💻 3rd Year B.Tech IT Student | Full Stack Developer | Aspiring DevOps & Automation Engineer</h3>
 
 <p align="center">
   <img src="1.png" alt="Banner" />
@@ -9,15 +9,15 @@
 
 ## 👩‍💻 About Me
 
-👋 I'm **Trisha Patil**, a second-year 🎓 **Information Technology** student with a love for developing modern, interactive web apps.
+👋 I'm **Trisha Patil**, a **3rd-year B.Tech Information Technology** student passionate about building innovative and efficient web solutions.
 
-🌐 I enjoy working across the stack — from stunning frontends to powerful backends.
+🌐 I enjoy working across the stack — from intuitive frontends to scalable backends.
 
-🧠 Currently learning and building full-stack projects using **React**, **Node.js**, **Express**, and **MongoDB**.
+🧠 Currently exploring **DevOps tools**, **cloud technologies**, and enhancing my skills in **React**, **Node.js**, and **MongoDB**.
 
-💡 My goal is to craft seamless and accessible user experiences that solve real-world problems.
+💡 My goal is to craft seamless, accessible, and impactful user experiences that solve real-world problems.
 
-🎯 Always curious and excited to learn new technologies and tools in software development.
+🎯 Always eager to learn, build, and collaborate on exciting tech projects.
 
 ---
 
@@ -36,10 +36,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
 </p>
 
 ### ⚙️ Backend
@@ -48,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
 </p>
 
 ### 🗃️ Databases
@@ -63,28 +60,49 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🧾 **Python Programming** – Scaler Academy 
-- 🧾 **Python Django 101 – Simplilearn SkillUp** *(June 2025)* ✅   
-- 🧾 **Software Development Job Simulation – DATACOM** (Forage) ✅  
-- 🧾 **Software Engineering Job Simulation – Accenture** (Forage)  
-- 🧾 **Citi’s Technology Software Development Virtual Experience** – Forage  
+- 🧾 **Python Programming** – Scaler Academy (2024)  
+- 🧾 **Python Django 101** – Simplilearn SkillUp (June 2025)  
+- 🧾 **Software Development Job Simulation** – Datacom (Forage)  
+- 🧾 **Software Engineering Virtual Experience** – Accenture (Forage)  
 - 🧾 **Responsive Web Design** – freeCodeCamp  
-- 🧾 **Git & GitHub for Beginners** – Alison *(or equivalent platform)*
-- 🧾 **Introduction to Cloud – Cognitive Class (COGODLXN)** by IBM ✅  
+- 🧾 **Introduction to Cloud Computing** – IBM Cognitive Class (COGODLXN)  
+
+---
+
+## 🚀 Featured Projects
+
+- 🍕 **Pizza Customization Web App** – Full-stack MERN app with admin panel, inventory management, and Razorpay integration.  
+- 🎓 **GPA Calculator** – Interactive web app using HTML, CSS, and JavaScript.  
+- 🧠 **DSA Project Collection** – Implementations of key data structures and algorithms in Python.  
+- 📋 **Task Scheduler App** – Flask-based task management system with categories and recurring tasks.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Trisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&count_private=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula" height="160"/>
+</p>
+
+---
+
+## 💬 Quote
+> _“Code. Learn. Build. Repeat.”_  
+> _“Turning ideas into impactful digital experiences.”_
 
 ---
 
