@@ -73,8 +73,7 @@
 - 🧾 **Python Django 101** – Simplilearn SkillUp (June 2025)  
 - 🧾 **Software Development Job Simulation** – Datacom (Forage)  
 - 🧾 **Software Engineering Virtual Experience** – Accenture (Forage)  
-- 🧾 **Responsive Web Design** – freeCodeCamp  
-- 🧾 **Introduction to Cloud Computing** – IBM Cognitive Class (COGODLXN)  
+
 
 ---
 
