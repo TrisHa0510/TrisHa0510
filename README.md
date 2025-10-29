@@ -91,7 +91,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula" height="190"/>
 </p>
 
 <p align="center">
