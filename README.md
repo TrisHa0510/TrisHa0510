@@ -87,16 +87,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=dracula" height="190"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trisha0510&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=dracula" height="160"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
