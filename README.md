@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
-<h3 align="center">💻 3rd Year B.Tech IT Student | Full Stack Developer | Aspiring DevOps & Automation Engineer</h3>
+<h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
 
 <p align="center">
   <img src="1.png" alt="Banner" />
