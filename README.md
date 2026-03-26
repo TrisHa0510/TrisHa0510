@@ -9,15 +9,35 @@
 
 ## 👩‍💻 About Me
 
-👋 I'm **Trisha Patil**, a **3rd-year B.Tech Information Technology** student passionate about building innovative and efficient web solutions.
+Full-Stack Developer skilled in the MERN Stack (MongoDB, Express.js, React.js, Node.js), 
 
-🌐 I enjoy working across the stack — from intuitive frontends to scalable backends.
+currently pursuing B.Tech in Information Technology at Uka Tarsadia University (Batch 2027).
 
-🧠 Currently exploring **DevOps tools**, **cloud technologies**, and enhancing my skills in **React**, **Node.js**, and **MongoDB**.
+I enjoy building real-world web applications that solve practical problems — from managing 
 
-💡 My goal is to craft seamless, accessible, and impactful user experiences that solve real-world problems.
+academic workflows to seamless food ordering experiences.
 
-🎯 Always eager to learn, build, and collaborate on exciting tech projects.
+
+Projects:
+
+• Assignment Management System — role-based web app for students & teachers (MERN)
+
+• Pizza Delivery App — full-stack food ordering platform with cart & order management (MERN)
+
+
+Internship Experience:
+
+• Zymo Research — Developed UI components, advertisement banners, and contributed 
+
+  to mobile app development using Flutter & Dart
+
+
+Tech Stack: React.js · Node.js · Express.js · MongoDB · JavaScript · HTML/CSS · Git · Flutter
+
+
+📌 Batch 2027 | Targeting Full-Stack / MERN Developer Roles
+
+      Open to placement opportunities & recruiter conversations.
 
 ---
 
