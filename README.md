@@ -1,30 +1,67 @@
+<!-- Open to Work Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Full--Stack%20%7C%20MERN%20Developer-brightgreen?style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Trisha Patil</h1>
 <h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
 
 <p align="center">
-  <img src="1.png" alt="Banner" />
+  <a href="mailto:trishapatil05@gmail.com">📧 trishapatil05@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha0510.trisha0510" alt="Visitor Count" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🚀 Full-Stack Developer skilled in the MERN Stack (MongoDB, Express.js, React.js, Node.js), 
-🎓 currently pursuing B.Tech in Information Technology at Uka Tarsadia University (Batch 2027).
-💡 I enjoy building real-world web applications that solve practical problems — from managing 
-academic workflows to seamless food ordering experiences.
+🚀 Full-Stack Developer skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🎓 B.Tech in Information Technology @ **Uka Tarsadia University, Bardoli, Gujarat** (Batch 2027)  
+💡 I build real-world web apps — from academic workflow tools to seamless food ordering platforms  
+💼 Seeking **Full-Stack / MERN Developer** roles | Open to internships & placement opportunities
 
-🛠️ Projects:
- • Assignment Management System — role-based web app for students & teachers (MERN)
- • Pizza Delivery App — full-stack food ordering platform with cart & order management (MERN)
+---
 
-💼 Internship Experience:
- • Zymo Research — Developed UI components, advertisement banners, and contributed to mobile app development using Flutter & Dart
+## 🔭 Currently
 
-⚙️ Tech Stack: React.js · Node.js · Express.js · MongoDB · JavaScript · HTML/CSS · Git · Flutter
+- 🛠️ Enhancing my **Assignment Management System** with an analytics dashboard
+- 🌱 Learning **TypeScript** and **REST API best practices**
+- 👀 Open to: Full-Stack / MERN Developer roles (Batch 2027)
 
-📌 Batch 2027 | Targeting Full-Stack / MERN Developer Roles
-   Open to placement opportunities & recruiter conversations.
+---
+
+## 🚀 Featured Projects
+
+### 🍕 Pizza Delivery App
+> Full-stack MERN application designed for a seamless food ordering experience.
+
+- ✔️ **Features:** User authentication, pizza customization, cart system, order management
+- ✔️ **Tech Stack:** React.js · Node.js · Express.js · MongoDB
+- ✔️ **Highlights:** Smooth UI/UX, dynamic pricing, real-time order flow
+
+<p>
+  <a href="https://github.com/trisha0510/pizza-delivery-app">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+  </a>
+</p>
+
+---
+
+### 📚 Assignment Management System
+> Role-based web application for efficient academic workflow management.
+
+- ✔️ **Features:** Student & teacher login, assignment upload, submission tracking, grading system
+- ✔️ **Tech Stack:** React.js · Node.js · Express.js · MongoDB
+- ✔️ **Highlights:** Secure role-based access, organized dashboard, streamlined submission process
+
+<p>
+  <a href="https://github.com/trisha0510/assignment-management-system">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+  </a>
+</p>
 
 ---
 
@@ -59,31 +96,25 @@ academic workflows to seamless food ordering experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
 </p>
+
+---
+
+## 💼 Internship Experience
+
+**Zymo Research**
+- 🔹 Developed UI components and advertisement banners for the web platform
+- 🔹 Contributed to mobile app development using **Flutter & Dart**
+
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🧾 **Python Programming** – Scaler Academy  
-- 🧾 **Software Development Job Simulation** – Datacom (Forage)  
-- 🧾 **Software Engineering Virtual Experience** – Accenture (Forage)
-- 🧾 **Responsive WebDesign** – freeCodeCamp 
-
-
----
-
-## 🚀 Featured Projects
-
-- 🍕 **Pizza Delivery App**  
-  Full-stack MERN application designed for seamless food ordering.  
-  ✔️ Features: User authentication, pizza customization, cart system, and order management  
-  ✔️ Tech Stack: React.js, Node.js, Express.js, MongoDB  
-  ✔️ Highlights: Smooth UI/UX, dynamic pricing, and real-time order flow  
-
-- 📚 **Assignment Management System**  
-  Role-based web application for efficient academic workflow management.  
-  ✔️ Features: Student & teacher login, assignment upload, submission tracking, and grading system  
-  ✔️ Tech Stack: React.js, Node.js, Express.js, MongoDB  
-  ✔️ Highlights: Secure role-based access, organized dashboard, and streamlined submission process  
+| Certificate | Issuer |
+|---|---|
+| 🧾 Python Programming | Scaler Academy |
+| 🧾 Software Development Job Simulation | Datacom (Forage) |
+| 🧾 Software Engineering Virtual Experience | Accenture (Forage) |
+| 🧾 Responsive Web Design | freeCodeCamp |
 
 ---
 
@@ -98,16 +129,16 @@ academic workflows to seamless food ordering experiences.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=radical&hide_border=true" />
 </p>
 
-
 ---
 
 ## 💬 Quote
-> _“Code. Learn. Build. Repeat.”_  
-> _“Turning ideas into impactful digital experiences.”_
+> _"Code. Learn. Build. Repeat."_  
+> _"Turning ideas into impactful digital experiences."_
 
 ---
 
 ## 🤝 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/trisha-patil-629ab3300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="28" />
