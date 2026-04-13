@@ -7,7 +7,7 @@
 <h3 align="center">💻 Full-Stack Developer | MERN Stack | React · Node.js · MongoDB | B.Tech. IT 2027</h3>
 
 <p align="center">
-  <a href="mailto:trishapatil05@gmail.com">📧 trishapatil05@gmail.com</a>
+  <a href="mailto:trishapatil05@gmail.com">📧 trishpatil5102005@gmail.com</a>
 </p>
 
 <p align="center">
