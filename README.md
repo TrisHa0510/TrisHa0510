@@ -122,11 +122,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trisha-patil05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha0510&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha-patil05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha0510&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha-patil05&theme=radical&hide_border=true" />
 </p>
 
 ---
