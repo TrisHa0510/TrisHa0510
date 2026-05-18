@@ -48,7 +48,7 @@
 - ✔️ **Highlights:** Smooth UI/UX, dynamic pricing, real-time order flow
 
 <p>
-  <a href="https://github.com/trisha-patil05">
+  <a href="https://github.com/trisha-patil05/HeatTreat-Pizza">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
   </a>
 </p>
