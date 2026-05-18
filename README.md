@@ -18,8 +18,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
 ## 🚀 About Me
 
 - 🎓 B.Tech IT Student (2027)
